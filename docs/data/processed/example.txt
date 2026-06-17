@@ -1,1 +1,0 @@
-Hier komt data te staan, maar verborgen op github (in de gitignore)
