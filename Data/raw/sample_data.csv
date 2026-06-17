@@ -1,0 +1,13 @@
+id,name,age,income,city,registration_date
+1,Jan Jansen,28,45000,Amsterdam,2023-01-15
+2,Maria Garcia,35,52000,Rotterdam,2023-02-20
+3,Pierre Dupont,42,61000,Utrecht,2023-03-10
+4,Anna Mueller,31,48000,The Hague,2023-04-05
+5,John Smith,38,55000,Amsterdam,2023-05-12
+6,Sophie Martin,29,46000,Rotterdam,2023-06-18
+7,Luca Rossi,45,65000,Utrecht,2023-07-22
+8,Emma Johnson,33,50000,The Hague,2023-08-30
+9,Klaus Wagner,40,58000,Amsterdam,2023-09-14
+10,Lisa Andersson,26,42000,Rotterdam,2023-10-20
+11,Carlos Gonzalez,36,54000,Utrecht,2023-11-25
+12,Ingrid Petersen,44,63000,The Hague,2023-12-05
