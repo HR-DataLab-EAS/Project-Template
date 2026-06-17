@@ -66,5 +66,5 @@ venv.bak/
 Thumbs.db
 
 # Project specific
-Data/processed/
+# Data/processed/
 *.log
